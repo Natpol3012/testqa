@@ -1,2 +1,1 @@
-# testqa
-Домашнее задание
+https://stepik.org/course/575/syllabus
